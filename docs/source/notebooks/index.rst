@@ -9,7 +9,7 @@ Maximum Likelihood Estimation
    :maxdepth: 1
    :glob:
 
-   notebooks/stats/*
+   stats/*
 
 
 Mixture Models
@@ -19,5 +19,5 @@ Mixture Models
    :maxdepth: 1
    :glob:
 
-   notebooks/mixture/*
+   mixture/*
 

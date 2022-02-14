@@ -1,0 +1,11 @@
+sphinx
+sphinx_rtd_theme
+numpydoc
+nbsphinx
+sphinx_autodoc_typehints
+ipython
+jupytext
+jupyter_client
+ipywidgets
+pandoc
+mvem
